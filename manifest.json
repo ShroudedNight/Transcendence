@@ -1,0 +1,7 @@
+{
+  "name": "Transcendence",
+  "description": "Become more.",
+  "version_number": "0.1.0",
+  "dependencies": ["BepInEx-BepInExPack_IL2CPP-6.0.667"],
+  "website_url": "https://github.com/shroudednight/Transcendence"
+}
